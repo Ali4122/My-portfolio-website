@@ -1,2 +1,2 @@
-You can also see demo version:
+Demo version of the site:
 https://aliisroilov.netlify.app/
